@@ -1,0 +1,57 @@
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmInicio.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmJogar.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.cache
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmForca.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmGeografia.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmHistória.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmCiencias.resources
+C:\Users\marca\Desktop\Jogo da Forca\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmInicio.resources
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmJogar.resources
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\lers1\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmInicio.resources
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmJogar.resources
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\unisanta\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
+C:\Users\Dinopc\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\Dinopc\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\Dinopc\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmInicio.resources
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmJogar.resources
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\marca\Desktop\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe.config
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.exe
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.pdb
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.exe
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\bin\Debug\Jogo da Forca.pdb
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csprojResolveAssemblyReference.cache
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmInicio.resources
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.FrmJogar.resources
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo_da_Forca.Properties.Resources.resources
+C:\Users\marca\OneDrive\Documentos\Jogo da Forca 2013\Jogo da Forca\obj\Debug\Jogo da Forca.csproj.GenerateResource.Cache
